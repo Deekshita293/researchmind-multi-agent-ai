@@ -1,0 +1,17 @@
+
+# LangChain framework: agents, prompts, and LCEL
+langchain
+langchain-core
+
+# GROQ LLM integration
+langchain-groq
+
+# Tavily web search
+langchain-tavily
+
+# BeautifulSoup for webpage content extraction
+beautifulsoup4
+requests
+
+# Environment variables (.env file)
+python-dotenv
